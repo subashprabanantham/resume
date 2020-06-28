@@ -7,57 +7,51 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Subash Prabanantham
+    tagline: Big Data Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: subashprabakar@gmail.com
+    phone: +91-9500441991
+    website: https://medium.com/@subashprabakar #do not add http://
+    linkedin: subash-p
+    github: subashprabanantham
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Tamil
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Gaming
         link:
 
-      - item: Snowboarding
+      - item: Tennis
         link:
 
-      - item: Cooking
+      - item: Books
         link:
 
 career-profile:
-    title: Career Profile
+    title: About me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am passionate about data and everything around it. I am a Big Data developer worked on building data products
+      with distributed systems as well as micro-services to some extent. I love everything about data including analytics,
+      data science and a simple rule based systems to solve business problems and process optimization
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BTech in Information Technology
+      university: PSG College of Technology, Coimbatore, India
+      time: 2010 - 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,125 +60,90 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: Mar, 2020 - Present
+      company: Visa Inc, Bengaluru
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Responsible in building Visa Ad Solutions platform to target and measure the effectiveness of the campaign executed by Visa.
+        Core product developer, mentorship, architect and ownership of the backend pipelines are the primary roles.
+
+    - role: Senior Software Engineer
+      time: Jan, 2018 - Feb, 2020
+      company: Visa Inc, Singapore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Worked on Integrated Marketing Platform team to build insights and intelligence for marketing needs. Role as Senior
+        backend engineer coupled with mentoring budding engineers in the team as well as guiding other members in developer's efficiency and
+        optimization techniques related to Big Data development are my primary expertise
+    - role: Software Engineer / Senior Software Engineer
+      time: Aug 2015 - Dec 2017
+      company: Visa Inc, Bengaluru
+      details: |
+        Responsible in building and managing Data Quality tool / platform as well as worked with product team on requirement analysis
+        and project timelines. Worked as core engineer to oversee the development across modules and lead the BAU team in delivering the
+        business critical requirements
+    - role: Software Engineer
+          time: Jun 2014 - Aug 2015
+          company: PayPal, Chennai
+          details: |
+            Fresher to the team and worked on building Metadata Repository solution to maintain all the job lineage information
+            present in our Data Platform. Responsible to learn and adapt to new changes as well as guiding interns with their projects
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Visa Ad Solutions
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "An in-house Advertisement Solutions platform to measure the effectiveness of the Ads executed through our partners"
 
-      - title: DevStudio
+      - title: Marketing Data Platform - Machine Learning
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Campaign measurement tool for measuring effectiveness of campaign by comparing audiences with similar behavioral pattern during the campaign period – used KDTree for finding nearest neighbor of selective features producing good measure for effectiveness"
 
-      - title: Tempo
+      - title:  Marketing Data Platform - Segmentation
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Worked on calculating user behavior scores based on their transaction history data of 120 million per day going back 1 year and worked on feature enhancement as well as delivery ownership"
 
-      - title: Atom
+      - title: Anomaly Detection - Batch Process
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Machine learning algorithm based platform/tool to detect the anomalies in our transaction data and proactively alert the business users."
 
-      - title: Delta
+      - title: Data Lineage Tool
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A complete lineage tool for the whole of PayPal data warehouse by parsing BTEQ queries and representing them in Neo4j as graph linkages"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
+      - title: Generic ETL Framework
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Automated ETL processor which parses instructions to build dynamic lineage. Instructions such as Hive, Java process, Shell scripts etc."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Scala
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Python
+        level: 75%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: R
+        level: 50%
+
+      - name: Java
+        level: 85%
+
+      - name: Apache Spark
+        level: 90%
+
+      - name: Apache Kafka
+        level: 50%
+
+      - name: Microservice
+        level: 50%
+
+      - name: Hive
+        level: 85%
+
+      - name: Neo4J
+        level: 60%
