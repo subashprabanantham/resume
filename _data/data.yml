@@ -84,11 +84,11 @@ experiences:
         and project timelines. Worked as core engineer to oversee the development across modules and lead the BAU team in delivering the
         business critical requirements
     - role: Software Engineer
-          time: Jun 2014 - Aug 2015
-          company: PayPal, Chennai
-          details: |
-            Fresher to the team and worked on building Metadata Repository solution to maintain all the job lineage information
-            present in our Data Platform. Responsible to learn and adapt to new changes as well as guiding interns with their projects
+      time: Jun 2014 - Aug 2015
+      company: PayPal, Chennai
+      details: |
+        Fresher to the team and worked on building Metadata Repository solution to maintain all the job lineage information
+        present in our Data Platform. Responsible to learn and adapt to new changes as well as guiding interns with their projects
 projects:
     title: Projects
     intro: >
