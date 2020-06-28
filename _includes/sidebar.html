@@ -15,6 +15,10 @@
     <h3 class="tagline">{{ sidebar.tagline }}</h3>
     {% endif %}
 
+    {% if sidebar.resume %}
+    <a href="{{ site.baseurl }}/assets/resume/{{ site.resume }}" target="_blank">Detailed Resume</a>
+    {% endif %}
+
   </div><!--//profile-container-->
 
   {% include contact.html %}
