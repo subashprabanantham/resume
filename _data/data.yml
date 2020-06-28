@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: subashprabakar@gmail.com
     phone: +91-9500441991
-    website: medium.com/@subashprabakar #do not add http://
+    website: Medium Blogs #Hardocded this in the HTML - check there
     linkedin: subash-p
     github: subashprabanantham
     telegram: # add your nickname without '@' sign
