@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Subash Prabanantham
-    tagline: Big Data Developer
+    tagline: Senior Software/Data Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,7 +46,7 @@ career-profile:
     summary: |
       I am passionate about data and everything around it. I am a Big Data developer worked on building data products
       with distributed systems as well as micro-services to some extent. I love everything about data including analytics,
-      data science and a simple rule based systems to solve business problems and process optimization
+      data science and process optimization to solve business problems
 education:
     - degree: BTech in Information Technology
       university: PSG College of Technology, Coimbatore, India
@@ -61,8 +61,14 @@ education:
           - Bullet point
 
 experiences:
+    - role: Senior Software/Data Engineer
+      time: Mar, 2021 - Present
+      company: Apple, London
+      details: |
+        Working in Growth Marketing team designing system for reinforcement learning
+
     - role: Senior Software Engineer
-      time: Mar, 2020 - Present
+      time: Mar, 2020 - Jan, 2021
       company: Visa Inc, Bengaluru
       details: |
         Responsible in building Visa Ad Solutions platform to target and measure the effectiveness of the campaign executed by Visa.
@@ -93,7 +99,7 @@ projects:
     intro: >
     assignments:
       - title: Visa Ad Solutions
-        link: "#hook"
+        link: "#"
         tagline: "An in-house Advertisement Solutions platform to measure the effectiveness of the Ads executed through our partners"
 
       - title: Marketing Data Platform - Machine Learning
@@ -162,7 +168,7 @@ skills:
         level: 50%
 
       - name: Microservice
-        level: 50%
+        level: 70%
 
       - name: Hive
         level: 85%
