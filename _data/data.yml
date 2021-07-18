@@ -10,11 +10,9 @@ sidebar:
     name: Subash Prabanantham
     tagline: Big Data Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    resume: latest.pdf
 
     # Sidebar links
     email: subashprabakar@gmail.com
-    phone: +91-9500441991
     website: Medium Blogs #Hardocded this in the HTML - check there
     linkedin: subash-p
     github: subashprabanantham
